@@ -1,5 +1,10 @@
 # Semantic Kernel Workshop 2024
 
-![SemanticKernel_Workshop.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/31-Aug-2024_Semantic_Kernel_WorkShop/images/SemanticKernel_Workshop.jpg))
+![SemanticKernel_Workshop.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/31-Aug-2024_Semantic_Kernel_WorkShop/images/SemanticKernel_Workshop.jpg)
 
-![SemanticKernel_Workshop.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/31-Aug-2024_Semantic_Kernel_WorkShop/images/Naveen_Semantic_Kernel_Poster.jpg))
+![SemanticKernel_Workshop.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/31-Aug-2024_Semantic_Kernel_WorkShop/images/Naveen_Semantic_Kernel_Poster.jpg)
+
+<div style="display: flex; align-items: center;">
+  <img src="[https://example.com/path/to/image1.png](https://github.com/navindevan/tech_time_with_naveen/blob/main/31-Aug-2024_Semantic_Kernel_WorkShop/images/SemanticKernel_Workshop.jpg)" width="200" alt="SemanticKernel_Workshop.jpg1">
+  <img src="[https://example.com/path/to/image2.png](https://github.com/navindevan/tech_time_with_naveen/blob/main/31-Aug-2024_Semantic_Kernel_WorkShop/images/Naveen_Semantic_Kernel_Poster.jpg)" width="200" alt="Naveen_Semantic_Kernel_Poster.jpg">
+</div>

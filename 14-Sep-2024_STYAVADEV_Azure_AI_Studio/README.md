@@ -1,27 +1,25 @@
-# Semantic Kernel Workshop 2024
+# 𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗔𝘇𝘂𝗿𝗲 𝗔𝗜 𝗦𝘁𝘂𝗱𝗶𝗼 - 𝗔 𝗚𝘂𝗶𝗱𝗲 T𝗼 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 T𝗵𝗲 𝗕𝗮𝘀𝗶𝗰𝘀
 
-Welcome to the Semantic Kernel Workshop! This repository contains the presentation materials and resources for the workshop held on 31st August 2024.
-This workshop is designed for those eager to explore the intricate world of semantic kernel concepts and unlock the potential of AI-driven understanding.
+Excited to deliver a session today on "𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗔𝘇𝘂𝗿𝗲 𝗔𝗜 𝗦𝘁𝘂𝗱𝗶𝗼 - 𝗔 𝗚𝘂𝗶𝗱𝗲 T𝗼 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 T𝗵𝗲 𝗕𝗮𝘀𝗶𝗰𝘀" hosted by styava.dev!.
 
-![SemanticKernel_Workshop.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/31-Aug-2024_Semantic_Kernel_WorkShop/images/Naveen_Semantic_Kernel_Poster.jpg)
+Join me as we dive into the foundational concepts of Azure AI Studio, explore its powerful features, and unlock the potential of AI-driven solutions. Whether you're just getting started with AI or looking to sharpen your skills, this session is designed to provide you with valuable insights!
+
+![Naveen_Poster.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/14-Sep-2024_STYAVADEV_Azure_AI_Studio/images/Naveen_Poster.jpg)
 
 ## Presentation
 
-For a comprehensive understanding of Semantic Kernel concepts, please refer to the presentation:
+For a comprehensive understanding of Azure AI Studio basic concepts, please refer to the presentation:
 
-[A Deep Dive into Semantic Kernel Concepts](https://github.com/navindevan/tech_time_with_naveen/blob/main/31-Aug-2024_Semantic_Kernel_WorkShop/presentation/A%20Deep%20Dive%20into%20Semantic%20Kernel%20Concepts.pdf)
+[Azure AI Studio Fundamentals](https://github.com/navindevan/tech_time_with_naveen/blob/main/14-Sep-2024_STYAVADEV_Azure_AI_Studio/presentation/Azure_AI_Studio_Fundamentals.pdf)
 
 ## Overview
 
-In this workshop, we will explore:
-  - Understanding Semantic Kernel
-  - Core Concepts of Semantic Kernel
-    - What are Agent? 
-    - Plugin, Planning and Personas
-    - What is Kernel?
-    - Adding AI Services
-  - What makes it special?
-  - What it provides?
+In this session, we will explore:
+  - Introduction to Azure AI Studio
+  - How AI Studio works?
+  - Core Components of AI Studio
+  - Features of AI Studio
+  - Use Cases   
   - Q & A
 
 ## How to Use This Repository

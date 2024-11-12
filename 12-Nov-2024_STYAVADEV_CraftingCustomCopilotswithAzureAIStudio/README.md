@@ -4,7 +4,7 @@ Excited to deliver a session today on **"Crafting Custom Copilots with Azure AI 
 
 In this thrilling course, you can make it a point to the design of the custom AI copilots using Azure AI Studio. 🎯 Find out how to put together AI models for your most unique workflows in your company, be it from customized code generation to automatic cloud tasks. If you are a developer, data scientist, or an AI lover, you will walk out of here with the knowledge necessary to configure AI tools customized to your specific needs.
 
-![Naveen_Poster.jpg](https://github.com/navindevan/tech_time_with_naveen/tree/main/12-Nov-2024_STYAVADEV_CraftingCustomCopilotswithAzureAIStudio/images/Naveen_Poster.jpg)
+![Naveen_Poster.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/12-Nov-2024_STYAVADEV_CraftingCustomCopilotswithAzureAIStudio/images/Naveen_Poster.jpg)
 
 ## Presentation
 

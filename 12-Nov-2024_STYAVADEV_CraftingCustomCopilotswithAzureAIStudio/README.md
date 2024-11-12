@@ -10,7 +10,7 @@ In this thrilling course, you can make it a point to the design of the custom AI
 
 For a comprehensive understanding of Azure AI Studio basic concepts, please refer to the presentation:
 
-[Crafting Custom Copilots with Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/blob/main/12-Nov-2024_STYAVADEV_CraftingCustomCopilotswithAzureAIStudio/presentation/Crafting_Custom_Copilots_with_Azure_AI_Studio.pdf))
+[Crafting Custom Copilots with Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/blob/main/12-Nov-2024_STYAVADEV_CraftingCustomCopilotswithAzureAIStudio/presentation/Crafting_Custom_Copilots_with_Azure_AI_Studio.pdf)
 
 ## Overview
 

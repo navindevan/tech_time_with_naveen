@@ -1,27 +1,27 @@
-# Crafting Custom Copilots with Azure AI Studio
+# From Knowledge to Conversation: Create Your Own Chatbot With Azure AI 
 
-Excited to deliver a session today on **"Crafting Custom Copilots with Azure AI Studio"** hosted by styava.dev!.
+Excited to deliver a session today on **"Create Your Own Chatbot With Azure AI"** hosted by styava.dev!.
 
 In this thrilling course, you can make it a point to the design of the custom AI copilots using Azure AI Studio. 🎯 Find out how to put together AI models for your most unique workflows in your company, be it from customized code generation to automatic cloud tasks. If you are a developer, data scientist, or an AI lover, you will walk out of here with the knowledge necessary to configure AI tools customized to your specific needs.
 
-![Naveen_Poster.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/12-Nov-2024_STYAVADEV_CraftingCustomCopilotswithAzureAIStudio/images/Naveen_Poster.jpg)
+![Naveen_Poster.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/19-Nov-2024_STYAVADEV_CreateYourOwnChatbotwithAzureAI/images/NavPoster.jpg))
 
 ## Presentation
 
-For a comprehensive understanding of Azure AI Studio basic concepts, please refer to the presentation:
+For a comprehensive understanding of Create Your Own Chatbot With Azure AI service, please refer to the presentation:
 
-[Crafting Custom Copilots with Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/blob/main/12-Nov-2024_STYAVADEV_CraftingCustomCopilotswithAzureAIStudio/presentation/Crafting_Custom_Copilots_with_Azure_AI_Studio.pdf)
+[Create Your Own Chatbot With Azure AI](https://github.com/navindevan/tech_time_with_naveen/blob/main/19-Nov-2024_STYAVADEV_CreateYourOwnChatbotwithAzureAI/presentation/CreateYourOwnChatbotwithAzureAI.pdf)
 
 ## Overview
 
 In this session, we will explore:
-  - Introduction to Azure AI Studio
-  - How AI Studio works?
-  - Core Components of AI Studio
-  - Features of AI Studio
-  - Demo 
+  - Azure AI Language Service
+  - Natural Language Processing
+  - Conversational AI
+  - Understand Question Answering
+  - Demo
   - Q & A
-
+  
 ## How to Use This Repository
 
 1. **Download the Presentation**: Click on the link above to view and download the presentation.

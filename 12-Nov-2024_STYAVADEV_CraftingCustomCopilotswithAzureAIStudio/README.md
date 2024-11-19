@@ -12,6 +12,9 @@ For a comprehensive understanding of Azure AI Studio basic concepts, please refe
 
 [Crafting Custom Copilots with Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/blob/main/12-Nov-2024_STYAVADEV_CraftingCustomCopilotswithAzureAIStudio/presentation/Crafting_Custom_Copilots_with_Azure_AI_Studio.pdf)
 
+🎥 **Watch the session recording on YouTube:**  
+[![Crafting Custom Copilots with Azure AI Studio](https://img.youtube.com/vi/yUtWTg42mS0/0.jpg)](https://www.youtube.com/watch?v=yUtWTg42mS0)
+
 ## Overview
 
 In this session, we will explore:

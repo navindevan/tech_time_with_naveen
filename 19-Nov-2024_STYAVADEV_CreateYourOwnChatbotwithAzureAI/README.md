@@ -12,6 +12,9 @@ For a comprehensive understanding of Create Your Own Chatbot With Azure AI servi
 
 [Create Your Own Chatbot With Azure AI](https://github.com/navindevan/tech_time_with_naveen/blob/main/19-Nov-2024_STYAVADEV_CreateYourOwnChatbotwithAzureAI/presentation/CreateYourOwnChatbotwithAzureAI.pdf)
 
+🎥 **Watch the session recording on YouTube:**  
+[![Create Your Own Chatbot With Azure AI](https://img.youtube.com/vi/A8qbLlIObNY/0.jpg)](https://www.youtube.com/watch?v=A8qbLlIObNY)
+
 ## Overview
 
 In this session, we will explore:

@@ -10,7 +10,7 @@ In this session, we will explore the world of conversational AI with Azure AI! T
 
 For a comprehensive understanding of Evaluate Generative AI Apps With Azure AI Studio, please refer to the presentation:
 
-[Evaluate Generative AI Apps With Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/blob/main/18-Dec-2024_FestiveTechCalendar2024_BuildPersonalizedChatbotsUsingAzureAI\presentation\HowtoBuildPersonalizedChatbotsUsingAzureAI.pdf)
+[Evaluate Generative AI Apps With Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/blob/main/18-Dec-2024_FestiveTechCalendar2024_BuildPersonalizedChatbotsUsingAzureAI/presentation/HowtoBuildPersonalizedChatbotsUsingAzureAI.pdf)
 
 🎥 **Watch the session recording on YouTube:**  
 [![How to Build Personalized Chatbots Using Azure AI](https://img.youtube.com/vi/QlxbhYyfLEo/0.jpg)](https://www.youtube.com/watch?v=QlxbhYyfLEo)

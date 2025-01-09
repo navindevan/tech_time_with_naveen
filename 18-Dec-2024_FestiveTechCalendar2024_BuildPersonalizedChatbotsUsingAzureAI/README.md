@@ -13,7 +13,7 @@ For a comprehensive understanding of Evaluate Generative AI Apps With Azure AI S
 [Evaluate Generative AI Apps With Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/blob/main/18-Dec-2024_FestiveTechCalendar2024_BuildPersonalizedChatbotsUsingAzureAI\presentation\HowtoBuildPersonalizedChatbotsUsingAzureAI.pdf)
 
 🎥 **Watch the session recording on YouTube:**  
-[![Create Your Own Chatbot With Azure AI](https://www.youtube.com/watch?v=QlxbhYyfLEo/0.jpg)](https://www.youtube.com/watch?v=QlxbhYyfLEo)
+[![How to Build Personalized Chatbots Using Azure AI](https://img.youtube.com/vi/QlxbhYyfLEo/0.jpg)](https://www.youtube.com/watch?v=QlxbhYyfLEo)
 
 ## Overview
 

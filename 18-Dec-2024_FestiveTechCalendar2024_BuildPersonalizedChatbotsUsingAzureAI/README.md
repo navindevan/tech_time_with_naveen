@@ -4,7 +4,7 @@ Excited to deliver a session today on **"Empowering Conversations: How to Build 
 
 In this session, we will explore how to evaluate generative AI applications using the powerful tools provided by Azure AI Studio. Azure AI Studio offers a robust platform for evaluating generative AI applications, enabling developers to measure performance, quality, and safety through both automated and custom evaluations. Users can upload datasets, configure test flows, and utilize built-in metrics such as coherence, relevance, and safety assessments. The evaluation process includes steps to set up datasets, choose appropriate metrics, and analyze results through the platform's UI. Azure AI Studio also supports risk evaluations for harmful content, using pre-trained models like GPT-4 to ensure AI-generated content is both effective and safe
 
-![Naveen_Poster.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/18-Dec-2024_FestiveTechCalendar2024_BuildPersonalizedChatbotsUsingAzureAI\images\FestiveTechCal_Poster.png)
+![FestiveTechCal_Poster.png](https://github.com/navindevan/tech_time_with_naveen/blob/main/18-Dec-2024_FestiveTechCalendar2024_BuildPersonalizedChatbotsUsingAzureAI/images/FestiveTechCal_Poster.png)
 
 ## Presentation
 

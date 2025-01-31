@@ -52,7 +52,7 @@ This project is licensed undet the MIT License. See the [LICENSE.md](LICENSE) fi
 
 ## 📞 Connect
 
-For feedback, questions, or more SQL tips, connect with me:
+For feedback, questions, or more, connect with me:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/naveenkumarm): Let's connect and discuss database strategies!
 

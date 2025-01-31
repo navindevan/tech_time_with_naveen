@@ -2,7 +2,7 @@
 
 Excited to deliver a session today on **"Creating Responsible AI Solutions Using Azure AI Content Safety"**  **Code; Without Barriers** Virtual Meet hosted by **STYAVA.DEV**!.
 
-Discover how to build responsible AI solutions using Azure AI Content Safety. This session explores regulating text, image, and multimodal content, detecting protected material in text and code, utilizing prompt shields, monitoring online activities, and implementing responsible AI practices in the Content Safety Studio.
+Discover how to build responsible AI solutions using Azure AI Content Safety. This session explores moderating text, image, and multimodal content, detecting protected material in text and code, utilizing prompt shields, monitoring online activities, and implementing responsible AI practices in the Content Safety Studio.
 
 ![Session_2025/images/31012025_ContentSafety.jpeg](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/images/31012025_ContentSafety.jpeg)
 
@@ -25,12 +25,12 @@ Link will be updated soon.
 ## Overview
 
 In this session, we will explore:
-  - Regulate Text Content
-  - Regulate Image Content
-  - Regulate Multimodal Content
-  - Detect Protected Material in Text
-  - Detect Protected Material in Code
-  - Utilize Prompt Shields
+  - Moderate Text Content
+  - Moderate Image Content
+  - Moderate Multimodal Content
+  - Protect Material Detection For Text
+  - Protect Material Detection For Code
+  - Prompt Shields
   - Monitor Online Activities
   - Implement Responsible AI in Content Safety Studio
   - Demo

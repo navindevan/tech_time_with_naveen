@@ -5,3 +5,9 @@
 ### 12-Nov-2024: [Crafting Custom Copilots with Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/tree/main/12-Nov-2024_STYAVADEV_CraftingCustomCopilotswithAzureAIStudio)
 ### 19-Nov-2024: [Create You Own Chatbot With Azure AI Service](https://github.com/navindevan/tech_time_with_naveen/tree/main/19-Nov-2024_STYAVADEV_CreateYourOwnChatbotwithAzureAI)
 ### 30-Nov-2024: [Evaluate Generative AI Applications with Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/tree/main/30-Nov-2024_EvaluateGenerativeAIAppsWithAzureAIStudio)
+
+## 2024 Session Details
+
+| Topic                       | Date                               | Code Github      | Youtube Link |
+| ------------------------------| ----------------------------------------- | -----------------| -----------|
+| **Creating Responsible AI Solutions Using Azure AI Content Safety**   |31-Jan-2025 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/navindevan/Sentiment-Analysis-Tool.git)|     |

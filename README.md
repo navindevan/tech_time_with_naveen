@@ -10,4 +10,4 @@
 
 | Topic                       | Date                               | Code Github      | Youtube Link |
 | ------------------------------| ----------------------------------------- | -----------------| -----------|
-| **Creating Responsible AI Solutions Using Azure AI Content Safety**   |31-Jan-2025 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](Session_2025/readme/310125_ContentSafety_README.md)| To be updated    |
+| **Creating Responsible AI Solutions Using Azure AI Content Safety**   |31-01-2025 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](Session_2025/readme/310125_ContentSafety_README.md)| To be updated    |

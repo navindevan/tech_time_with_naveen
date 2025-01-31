@@ -1,41 +1,53 @@
-# From Knowledge to Conversation: Create Your Own Chatbot With Azure AI 
+# Creating Responsible AI Solutions Using Azure AI Content Safety 
 
-Excited to deliver a session today on **"Create Your Own Chatbot With Azure AI"** hosted by styava.dev!.
+Excited to deliver a session today on **"Creating Responsible AI Solutions Using Azure AI Content Safety"**  **Code; Without Barriers** Virtual Meet hosted by **STYAVA.DEV**!.
 
-Have you ever thought of making your own chatbot? In this beginner-friendly course, you will be able to create a smart, conversational AI using both Azure AI and Bot Framework. 🌐 In this session, we'll guide you through the essential topics and tasks such as a chatbot that can answer user's questions, engage users, and learn from the data. This lesson talks about how to write a chatbot that can be used in projects such as better customer services and a personal assistant. This course will teach you the basic things to get you moving!
+Discover how to build responsible AI solutions using Azure AI Content Safety. This session explores regulating text, image, and multimodal content, detecting protected material in text and code, utilizing prompt shields, monitoring online activities, and implementing responsible AI practices in the Content Safety Studio.
 
-![Naveen_Poster.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/19-Nov-2024_STYAVADEV_CreateYourOwnChatbotwithAzureAI/images/NavPoster.jpg)
+![Session_2025/images/31012025_ContentSafety.jpeg](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/images/31012025_ContentSafety.jpeg)
 
-## Presentation
+## 📊 Presentation
 
-For a comprehensive understanding of Create Your Own Chatbot With Azure AI service, please refer to the presentation:
+For a comprehensive understanding of Azure AI Content Safety, please refer to the presentation:
 
-[Create Your Own Chatbot With Azure AI](https://github.com/navindevan/tech_time_with_naveen/blob/main/19-Nov-2024_STYAVADEV_CreateYourOwnChatbotwithAzureAI/presentation/CreateYourOwnChatbotwithAzureAI.pdf)
+[Creating Responsible AI Solutions Using Azure AI Content Safety ](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/presentation/AzureAIContentSafety.pdf)
 
 🎥 **Watch the session recording on YouTube:**  
-[![Create Your Own Chatbot With Azure AI](https://img.youtube.com/vi/A8qbLlIObNY/0.jpg)](https://www.youtube.com/watch?v=A8qbLlIObNY)
+
+Link will be updated soon.
 
 ## Overview
 
 In this session, we will explore:
-  - Azure AI Language Service
-  - Natural Language Processing
-  - Conversational AI
-  - Understand Question Answering
+  - Regulate Text Content
+  - Regulate Image Content
+  - Regulate Multimodal Content
+  - Detect Protected Material in Text
+  - Detect Protected Material in Code
+  - Utilize Prompt Shields
+  - Monitor Online Activities
+  - Implement Responsible AI in Content Safety Studio
   - Demo
   - Q & A
   
-## How to Use This Repository
+## 🗂️ How to Use This Repository
 
 1. **Download the Presentation**: Click on the link above to view and download the presentation.
 2. **Follow Along**: Use the slides to follow along with the workshop sessions.
 3. **Explore Further**: Check out the additional resources and examples provided in this repository.
 
-## Feedback
+## 📝 Feedback
 
 Your feedback is valuable! Please open an issue or submit a pull request with any suggestions or improvements.
 
----
+## 📜 License
 
-Happy Learning!
-Naveen
+This project is licensed undet the MIT License. See the [LICENSE.md](LICENSE) file for details.
+
+## 📞 Connect
+
+For feedback, questions, or more SQL tips, connect with me:
+
+🔗 [LinkedIn](https://www.linkedin.com/in/naveenkumarm): Let's connect and discuss database strategies!
+
+▶️ [YouTube Channel](https://www.youtube.com/@ttwithnaveen): Subscribe for more database insights and tutorials.

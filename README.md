@@ -10,4 +10,4 @@
 
 | Topic                       | Date                               | Code Github      | Youtube Link |
 | ------------------------------| ----------------------------------------- | -----------------| -----------|
-| **Creating Responsible AI Solutions Using Azure AI Content Safety**   |31-Jan-2025 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/navindevan/Sentiment-Analysis-Tool.git)|     |
+| **Creating Responsible AI Solutions Using Azure AI Content Safety**   |31-Jan-2025 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/navindevan/Sentiment-Analysis-Tool.git)| To be updated    |

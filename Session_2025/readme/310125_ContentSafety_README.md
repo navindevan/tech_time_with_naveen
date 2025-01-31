@@ -4,7 +4,7 @@ Excited to deliver a session today on **"Creating Responsible AI Solutions Using
 
 Discover how to build responsible AI solutions using Azure AI Content Safety. This session explores moderating text, image, and multimodal content, detecting protected material in text and code, utilizing prompt shields, monitoring online activities, and implementing responsible AI practices in the Content Safety Studio.
 
-![Session_2025/images/31012025_ContentSafety.jpeg](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/images/31012025_ContentSafety.jpeg)
+![Session_2025/images/31012025_ContentSafety1.jpeg](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/images/31012025_ContentSafety1.jpeg)
 
 ## 📊 Presentation
 

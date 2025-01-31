@@ -12,6 +12,12 @@ For a comprehensive understanding of Azure AI Content Safety, please refer to th
 
 [Creating Responsible AI Solutions Using Azure AI Content Safety ](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/presentation/AzureAIContentSafety.pdf)
 
+## 🛠️ Code
+
+The Python script and image used in the demo are available below.
+
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/navindevan/tech_time_with_naveen/tree/main/Session_2025/code/ContentSafety)
+
 🎥 **Watch the session recording on YouTube:**  
 
 Link will be updated soon.

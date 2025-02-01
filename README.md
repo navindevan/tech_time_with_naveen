@@ -6,6 +6,13 @@
 ### 19-Nov-2024: [Create You Own Chatbot With Azure AI Service](https://github.com/navindevan/tech_time_with_naveen/tree/main/19-Nov-2024_STYAVADEV_CreateYourOwnChatbotwithAzureAI)
 ### 30-Nov-2024: [Evaluate Generative AI Applications with Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/tree/main/30-Nov-2024_EvaluateGenerativeAIAppsWithAzureAIStudio)
 ---
+## 2024 Session Details
+
+| Topic                       | Date                               | Code Github      | Youtube Link |
+| ------------------------------| ----------------------------------------- | -----------------| -----------|
+| 🤖 **From Knowledge to Conversation: Create Your Own Chatbot With Azure AI**   |19-11-2024 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](Session_2025/readme/310125_ContentSafety_README.md)| [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://www.youtube.com/watch?v=A8qbLlIObNY)|
+
+---
 ## 2025 Session Details
 
 | Topic                       | Date                               | Code Github      | Youtube Link |

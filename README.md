@@ -10,7 +10,7 @@
 
 | Topic                       | Date                               | Code Github      | Youtube Link |
 | ------------------------------| ----------------------------------------- | -----------------| -----------|
-| 🤖 **From Knowledge to Conversation: Create Your Own Chatbot With Azure AI**   |19-11-2024 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](Session_2025/readme/310125_ContentSafety_README.md)| [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://www.youtube.com/watch?v=A8qbLlIObNY)|
+| 🤖 **From Knowledge to Conversation: Create Your Own Chatbot With Azure AI**   |19-11-2024 | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](Session_2024/readme/191124_OwnChatbot_README.md)| [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://www.youtube.com/watch?v=A8qbLlIObNY)|
 
 ---
 ## 2025 Session Details

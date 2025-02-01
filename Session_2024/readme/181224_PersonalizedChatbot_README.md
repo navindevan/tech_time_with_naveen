@@ -4,13 +4,13 @@ Excited to deliver a session today on **"Empowering Conversations: How to Build 
 
 In this session, we will explore the world of conversational AI with Azure AI! This session will guide you through building personalized chatbots that leverage Azure AI's powerful Language service and natural language processing capabilities. We’ll explore essential tools for conversational AI, including how to create and optimize question-answering features, enabling bots to understand and respond more naturally. With a hands-on demo, you'll gain practical skills to create engaging, interactive chatbots that enhance user experiences
 
-![FestiveTechCal_Poster.png](https://github.com/navindevan/tech_time_with_naveen/blob/main/18-Dec-2024_FestiveTechCalendar2024_BuildPersonalizedChatbotsUsingAzureAI/images/FestiveTechCal_Poster.png)
+![FestiveTechCal_Poster.png](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2024/images/181224_PersonalizedChatbot_Poster.png)
 
 ## Presentation
 
-For a comprehensive understanding of Evaluate Generative AI Apps With Azure AI Studio, please refer to the presentation:
+For a comprehensive understanding of How to Build Personalized Chatbots Using Azure AI, please refer to the presentation:
 
-[Evaluate Generative AI Apps With Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/blob/main/18-Dec-2024_FestiveTechCalendar2024_BuildPersonalizedChatbotsUsingAzureAI/presentation/HowtoBuildPersonalizedChatbotsUsingAzureAI.pdf)
+[Evaluate Generative AI Apps With Azure AI Studio](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2024/presentation/Personalized_Chatbots_Using_AzureAI.pdf)
 
 🎥 **Watch the session recording on YouTube:**  
 [![How to Build Personalized Chatbots Using Azure AI](https://img.youtube.com/vi/QlxbhYyfLEo/0.jpg)](https://www.youtube.com/watch?v=QlxbhYyfLEo)

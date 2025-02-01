@@ -3,13 +3,13 @@
 Welcome to the Semantic Kernel Workshop! This repository contains the presentation materials and resources for the workshop held on 31st August 2024.
 This workshop is designed for those eager to explore the intricate world of semantic kernel concepts and unlock the potential of AI-driven understanding.
 
-![SemanticKernel_Workshop.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/31-Aug-2024_Semantic_Kernel_WorkShop/images/Naveen_Semantic_Kernel_Poster.jpg)
+![SemanticKernel_Workshop.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2024/images/310824_SemanticKernel_Poster.jpg)
 
 ## Presentation
 
 For a comprehensive understanding of Semantic Kernel concepts, please refer to the presentation:
 
-[A Deep Dive into Semantic Kernel Concepts](https://github.com/navindevan/tech_time_with_naveen/blob/main/31-Aug-2024_Semantic_Kernel_WorkShop/presentation/A%20Deep%20Dive%20into%20Semantic%20Kernel%20Concepts.pdf)
+[A Deep Dive into Semantic Kernel Concepts](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2024/presentation/Semantic_Kernel_Concepts.pdf)
 
 ## Overview
 

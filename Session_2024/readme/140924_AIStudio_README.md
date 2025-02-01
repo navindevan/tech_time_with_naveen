@@ -4,13 +4,13 @@ Excited to deliver a session today on "𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗔
 
 Join me as we dive into the foundational concepts of Azure AI Studio, explore its powerful features, and unlock the potential of AI-driven solutions. Whether you're just getting started with AI or looking to sharpen your skills, this session is designed to provide you with valuable insights!
 
-![Naveen_Poster.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/14-Sep-2024_STYAVADEV_Azure_AI_Studio/images/Naveen_Poster.jpg)
+![Naveen_Poster.jpg](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2024/images/140924_AIStudio_Poster.jpg)
 
 ## Presentation
 
 For a comprehensive understanding of Azure AI Studio basic concepts, please refer to the presentation:
 
-[Azure AI Studio Fundamentals](https://github.com/navindevan/tech_time_with_naveen/blob/main/14-Sep-2024_STYAVADEV_Azure_AI_Studio/presentation/Azure_AI_Studio_Fundamentals.pdf)
+[Azure AI Studio Fundamentals](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2024/presentation/Azure_AI_Studio_Fundamentals.pdf)
 
 ## Overview
 

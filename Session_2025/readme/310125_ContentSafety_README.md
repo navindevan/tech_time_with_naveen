@@ -20,7 +20,7 @@ The Python script and image used in the demo are available below.
 
 🎥 **Watch the session recording on YouTube:**  
 
-Link will be updated soon.
+[![Creating Responsible AI Solutions Using Azure AI Content Safety](https://img.youtube.com/vi/SH1bOiF7D0E/0.jpg)](https://www.youtube.com/watch?v=SH1bOiF7D0E)
 
 ## Overview
 

@@ -1,38 +1,31 @@
-# Creating Responsible AI Solutions Using Azure AI Content Safety 
+# Empowering AI Innovation with Microsoft AI Foundry 
 
-Excited to deliver a session today on **"Creating Responsible AI Solutions Using Azure AI Content Safety"**  **Code; Without Barriers** Virtual Meet hosted by **STYAVA.DEV**!.
+Excited to deliver a session on **"Empowering AI Innovation with Microsoft AI Foundry"**  **Global AI Summit 2025** Virtual Meet hosted by **Innovation Tech Community**!.
 
-Discover how to build responsible AI solutions using Azure AI Content Safety. This session explores moderating text, image, and multimodal content, detecting protected material in text and code, utilizing prompt shields, monitoring online activities, and implementing responsible AI practices in the Content Safety Studio.
+Previously known as AI Studio, Microsoft AI Foundry has evolved into a more powerful and user-friendly platform for creating AI solutions. In this session, we’ll explore its transformation and highlight key features like Hubs and Projects that streamline collaboration and development. We’ll also examine its enhanced tools, such as the Model Catalog, advanced Prompt Engineering, and Benchmarking capabilities. Finally, we’ll showcase how to use AI Foundry to develop a custom AI solution designed for real-world scenarios
 
-![Session_2025/images/31012025_ContentSafety1.jpeg](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/images/31012025_ContentSafety1.jpeg)
+![Session_2025/images/31012025_ContentSafety1.jpeg](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/images/15022024_AIFoundry.jpg)
 
 ## 📊 Presentation
 
 For a comprehensive understanding of Azure AI Content Safety, please refer to the presentation:
 
-[Creating Responsible AI Solutions Using Azure AI Content Safety ](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/presentation/AzureAIContentSafety.pdf)
-
-## 🛠️ Code
-
-The Python script and image used in the demo are available below.
-
-[![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/navindevan/tech_time_with_naveen/tree/main/Session_2025/code/ContentSafety)
+[Empowering AI Innovation with Microsoft AI Foundry](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/presentation/AzureAIFoundryIntroduction.pdf)
 
 🎥 **Watch the session recording on YouTube:**  
 
-[![Creating Responsible AI Solutions Using Azure AI Content Safety](https://img.youtube.com/vi/SH1bOiF7D0E/0.jpg)](https://www.youtube.com/watch?v=SH1bOiF7D0E)
+To be Updated
 
 ## Overview
 
 In this session, we will explore:
-  - Moderate Text Content
-  - Moderate Image Content
-  - Moderate Multimodal Content
-  - Protect Material Detection For Text
-  - Protect Material Detection For Code
-  - Prompt Shields
-  - Monitor Online Activities
-  - Implement Responsible AI in Content Safety Studio
+  - Introduction to Azure AI Foundry
+  - Azure AI Foundry Architecture
+  - How AI Foundry Works
+  - What can we do with Project and Hub
+  - When to use AI Foundry
+  - Model Catalog
+  - Inference Tasks
   - Demo
   - Q & A
   

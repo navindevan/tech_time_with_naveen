@@ -1,6 +1,6 @@
 # Empowering AI Innovation with Microsoft AI Foundry 
 
-Excited to deliver a session on **"Empowering AI Innovation with Microsoft AI Foundry"**  **Global AI Summit 2025** Virtual Meet hosted by **Innovation Tech Community**!.
+Excited to deliver a session on **"Empowering AI Innovation with Microsoft AI Foundry"**  **Microsoft AI Summit 2025** Virtual Meet hosted by **Innovation Tech Community**!.
 
 Previously known as AI Studio, Microsoft AI Foundry has evolved into a more powerful and user-friendly platform for creating AI solutions. In this session, we’ll explore its transformation and highlight key features like Hubs and Projects that streamline collaboration and development. We’ll also examine its enhanced tools, such as the Model Catalog, advanced Prompt Engineering, and Benchmarking capabilities. Finally, we’ll showcase how to use AI Foundry to develop a custom AI solution designed for real-world scenarios
 
@@ -18,16 +18,25 @@ To be Updated
 
 ## Overview
 
-In this session, we will explore:
-  - Introduction to Azure AI Foundry
-  - Azure AI Foundry Architecture
-  - How AI Foundry Works
-  - What can we do with Project and Hub
-  - When to use AI Foundry
-  - Model Catalog
-  - Inference Tasks
-  - Demo
-  - Q & A
+In this session, I covered:
+ - Model Catalog
+ - Playgrounds
+ - AI Services & Agents
+ - Code, Fine-Tuning & Prompt-flow
+ - Tracing & Evaluation
+ - Safety & Security
+ - Model Endpoints, Data Indexes, WebApps
+ - Management Center
+
+Agenda Highlights:
+  - Introduction to Azure AI Foundry – What it is and why it matters.
+  - Azure AI Foundry Architecture – A deep dive into its components and structure.
+  - How AI Foundry Works – Understanding the workflow of AI Foundry.
+  - What can we do with Projects and Hubs – Exploring their capabilities in AI development.
+  - When to Use AI Foundry – Identifying the right scenarios for AI Foundry adoption.
+  - Model Catalog – Managing and utilizing AI models effectively.
+  - Inference Tasks – Deploying models and performing inferences at scale.
+  - Q&A – An open forum to discuss your questions and insights.
   
 ## 🗂️ How to Use This Repository
 

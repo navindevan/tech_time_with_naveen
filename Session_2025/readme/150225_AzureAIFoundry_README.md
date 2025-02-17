@@ -1,8 +1,8 @@
-# Empowering AI Innovation with Microsoft AI Foundry 
+# Empowering AI Innovation with Microsoft Azure AI Foundry 
 
-Excited to deliver a session on **"Empowering AI Innovation with Microsoft AI Foundry"**  **Microsoft AI Summit 2025** Virtual Meet hosted by **Innovation Tech Community**!.
+Excited to deliver a session on **"Empowering AI Innovation with Microsoft Azure AI Foundry"**  **Microsoft AI Summit 2025** Virtual Meet hosted by **Innovation Tech Community**!.
 
-Previously known as AI Studio, Microsoft AI Foundry has evolved into a more powerful and user-friendly platform for creating AI solutions. In this session, we’ll explore its transformation and highlight key features like Hubs and Projects that streamline collaboration and development. We’ll also examine its enhanced tools, such as the Model Catalog, advanced Prompt Engineering, and Benchmarking capabilities. Finally, we’ll showcase how to use AI Foundry to develop a custom AI solution designed for real-world scenarios
+Previously known as AI Studio, Microsoft Azure AI Foundry has evolved into a more powerful and user-friendly platform for creating AI solutions. In this session, we’ll explore its transformation and highlight key features like Hubs and Projects that streamline collaboration and development. We’ll also examine its enhanced tools, such as the Model Catalog, advanced Prompt Engineering, and Benchmarking capabilities. Finally, we’ll showcase how to use AI Foundry to develop a custom AI solution designed for real-world scenarios
 
 ![Session_2025/images/31012025_ContentSafety1.jpeg](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/images/15022024_AIFoundry.jpg)
 
@@ -10,11 +10,11 @@ Previously known as AI Studio, Microsoft AI Foundry has evolved into a more powe
 
 For a comprehensive understanding of Azure AI Content Safety, please refer to the presentation:
 
-[Empowering AI Innovation with Microsoft AI Foundry](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/presentation/AzureAIFoundryIntroduction.pdf)
+[Empowering AI Innovation with Microsoft Azure AI Foundry](https://github.com/navindevan/tech_time_with_naveen/blob/main/Session_2025/presentation/AzureAIFoundryIntroduction.pdf)
 
 🎥 **Watch the session recording on YouTube:**  
 
-To be Updated
+[![Empowering AI Innovation with Microsoft Azure AI Foundry](https://img.youtube.com/vi/uC71ekttpCY/0.jpg)](https://www.youtube.com/watch?v=uC71ekttpCY)
 
 ## Overview
 
